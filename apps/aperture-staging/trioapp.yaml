@@ -13,7 +13,7 @@ spec:
     namespace: staging
   source:
     path: manifests/trio-app/aperture-staging
-    repoURL: 'https://github.com/danielm-codefresh/DevOps'
+    repoURL: 'https://github.com/danielm-codefresh/DevOps-staging'
     targetRevision: main
     # plugin:
     #   name: kustomize-build-with-helm
