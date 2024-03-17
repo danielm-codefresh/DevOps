@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: manifests/simple-app-helm
-    repoURL: https://github.com/aperture-sci/DevOps.git
+    repoURL: https://github.com/danielm-codefresh/DevOps.git
     targetRevision: HEAD
   destination:
     name: target-usw
